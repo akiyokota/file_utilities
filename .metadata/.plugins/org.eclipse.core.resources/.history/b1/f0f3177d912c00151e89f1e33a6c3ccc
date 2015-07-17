@@ -1,0 +1,16 @@
+package fileWriter;
+
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class MainApp {
+	public static void main(String[] args) {
+		Path FILE_PATH = Paths.get("/temp", "temp.txt");
+		
+		
+		
+		
+		
+		System.out.println("hello");
+	}
+}
